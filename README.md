@@ -66,3 +66,9 @@ styles/globals.css
 @tailwind utilities;
 
 ```
+
+# 3. Install @types/react
+
+```
+npm i -D @types/react
+```
