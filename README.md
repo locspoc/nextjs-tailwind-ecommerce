@@ -78,3 +78,9 @@ npm i -D @types/react
 ```
 npm i @heroicons/react
 ```
+
+# 5. JS Cookie
+
+```
+npm i js-cookie
+```
