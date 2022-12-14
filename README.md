@@ -72,3 +72,15 @@ styles/globals.css
 ```
 npm i -D @types/react
 ```
+
+# 4. Install Hero Icons
+
+```
+npm i @heroicons/react
+```
+
+# 5. JS Cookie
+
+```
+npm i js-cookie
+```
