@@ -84,3 +84,9 @@ npm i @heroicons/react
 ```
 npm i js-cookie
 ```
+
+# 6. React Hook Form
+
+```
+npm i react-hook-form
+```
