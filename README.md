@@ -90,3 +90,15 @@ npm i js-cookie
 ```
 npm i react-hook-form
 ```
+
+# 7. Mongoose
+
+```
+npm i mongoose --save
+```
+
+# 8. BcryptJS
+
+```
+npm i bcryptjs
+```
